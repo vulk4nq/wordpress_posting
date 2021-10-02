@@ -1,0 +1,65 @@
+SITENAME_IZMENIT - Название которое нужно вынести
+
+
+
+
+-----Заголовок (1)
+
+SITENAME_IZMENIT reduce the cost of premium access for users to the COVID-19 pandemic
+
+--------------------
+
+
+-----Начните писать текст (2)
+
+<!-- wp:paragraph -->
+<p><strong>SITENAME_IZMENIT.com</strong>&nbsp;<a href="http://SITENAME_IZMENIT.com/">company</a>, is proud to announce the creation of the COVID-19 Pandemic Response Fund. They have committed&nbsp;<strong>$2.5 million</strong>&nbsp;to global efforts to combat the pandemic.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>SITENAME_IZMENIT</strong> COVID-19 Pandemic Response Fund has awarded grants ranging from $300,000 to $1 million for a total of $2.5 million and also reduced the cost of&nbsp;<strong>premium access</strong>&nbsp;to&nbsp;<strong><a href="https://SITENAME_IZMENIT.com/" target="_blank" rel="noreferrer noopener">SITENAME_IZMENIT.com</a></strong> users from the&nbsp;<strong>United States</strong>,&nbsp;<strong>Canada</strong>,&nbsp;<strong>France</strong>,&nbsp;<strong>Italy</strong>,&nbsp;<strong>Sweden</strong>&nbsp;due to the severe consequences of this disease and the inability of people to pay the full amount.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The COVID-19 epidemic is an unprecedented crisis that requires a coordinated response on a global scale. Business can play a critical role in slowing the spread of the virus, mitigating its effects and saving lives, and SITENAME_IZMENIT.com are committed to making their contribution.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We work in the financial and technological sector, and for us the best way to help a common cause is charity.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In the context of the current crisis, charity is of great importance; strategically targeted funds can become a lifeline in areas that are not yet covered by global assistance at the state level, and quickly expand the capabilities of organizations prepared for the crisis, but not sufficiently resourced. The four organizations we have decided to support are playing a leading role in the fight against the COVID-19 pandemic and, with more funding, can increase the scale of the response.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The global crisis has forced us to think about how to build up resources to better respond to the next pandemic. To cope with new epidemics, we must learn to prevent them before they begin, quickly detect them if they have not been prevented, and quickly develop countermeasures that can be deployed across the country or the world.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>CEO and Co-founder of&nbsp;<a href="http://SITENAME_IZMENIT.com">SITENAME_IZMENIT</a>: “We take a conscious approach to providing grants and want our actions during the COVID-19 crisis to bring maximum benefit now and in the future. Therefore, we have decided to provide grants totaling $ 2.5 million to four organizations that make a tangible contribution to the fight against the COVID-19 epidemic and help mitigate global catastrophic biological risks.”</p>
+<!-- /wp:paragraph -->
+
+--------------------
+
+
+-----Фокусное ключевое слово(3)
+
+SITENAME_IZMENIT reduce the cost of premium access for users to the COVID-19 pandemic
+-------------------
+
+-----Ярлык(4)
+SITENAME_IZMENIT-reduce-the-cost-of-premium-access-for-users-to-the-covid-19-pandemic
+--------------------
+
+-----Мета(5)
+SITENAME_IZMENIT.com company, is proud to announce the creation of the COVID-19 Pandemic Response Fund.
+--------------------
+
+-----Время публикации(6)
+July 9, 2021 10:09 pm
+--------------------
+
+-----Метки(7)
+SITENAME_IZMENIT, SITENAME_IZMENIT.com, Bitcoin, Blockchain, Btc, Crypto, Cryptocurrencies, Cryptocurrency, Cryptocurrency Exchange, cryptoexchange, cryptotrader, cryptotrading, ETH, Ethereum, Giveaway, KYC, Trading,  BitcoinTrading, Trading Analysis, DeFi, Business Regulation, PriceSpotlight
+--------------------
